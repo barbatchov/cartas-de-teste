@@ -7,7 +7,7 @@
         <item>Alistamento Militar</item>
     </nomes-populares>
     <descricao><![CDATA[O Serviço Militar é o exercício de atividades específicas desempenhadas pela Marinha, Exército e Aeronáutica na defesa nacional.]]></descricao>
-    <contato/>
+    <contato><![CDATA[Email]]></contato>
     <gratuito>true</gratuito>
     <solicitantes>
         <solicitante>
