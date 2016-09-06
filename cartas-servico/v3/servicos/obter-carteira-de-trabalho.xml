@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
-    <nome><![CDATA[Obter carteira de trabalho]]></nome>
+    <nome>Obter carteira de trabalho 2</nome>
     <sigla>CTPS 2</sigla>
     <nomes-populares>
         <item>carteira</item>
