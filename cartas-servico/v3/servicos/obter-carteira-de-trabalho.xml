@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+    <nome><![CDATA[Obter carteira de trabalho]]></nome>
+    <sigla>CTPS 2</sigla>
+    <nomes-populares>
+        <item>carteira</item>
+        <item>trabalho</item>
+        <item>carteira de trabalho</item>
+    </nomes-populares>
+    <descricao><![CDATA[A Carteira de Trabalho e Previdência Social (CTPS) é um documento obrigatório para quem venha a prestar algum tipo de serviço profissional no Brasil. A retenção da CTPS por constitui crime de contravenção penal, punível com pena de prisão simples de 1 a 3 meses ou multa, segundo a Lei 5.553/68[1].
+
+A carteira de trabalho é um dos únicos documentos a reproduzir, esclarecer e comprovar dados sobre a vida funcional do trabalhador.]]></descricao>
+    <contato><![CDATA[contato]]></contato>
+    <gratuito>true</gratuito>
+    <solicitantes>
+        <solicitante>
+            <tipo>Pessoa Física</tipo>
+            <requisitos/>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <ate max="1" unidade="dias-corridos"/>
+        <descricao/>
+    </tempo-total-estimado>
+    <etapas>
+        <etapa>
+            <titulo>Pedir carteira</titulo>
+            <descricao/>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao tipo="fax">
+                        <descricao><![CDATA[233344556]]></descricao>
+                    </canal-de-prestacao>
+                </default>
+                <caso descricao="seja do sexo masculino">
+                    <canal-de-prestacao tipo="e-mail">
+                        <descricao><![CDATA[teste@teste.gov.br]]></descricao>
+                    </canal-de-prestacao>
+                </caso>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa>
+            <titulo>Pegar carteira</titulo>
+            <descricao/>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao tipo="postal">
+                        <descricao><![CDATA[rua x]]></descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/108999"/>
+    <segmentos-da-sociedade>
+        <item>Cidadãos</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Trabalho</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item>trabalho</item>
+        <item>carteira</item>
+        <item>desemprego</item>
+    </palavras-chave>
+    <legislacoes>
+        <item><![CDATA[fdsadffdsfdasfsfdsfas]]></item>
+        <item><![CDATA[fsadfasdfasdfsdfs]]></item>
+    </legislacoes>
+</servico>
