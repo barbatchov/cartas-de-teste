@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+    <nome><![CDATA[Serviço Velho]]></nome>
+    <sigla>Velho</sigla>
+    <nomes-populares>
+        <item>Velho</item>
+        <item>Idoso</item>
+    </nomes-populares>
+    <descricao><![CDATA[Serviço super velho, idoso e acabado]]></descricao>
+    <contato><![CDATA[contato serviço]]></contato>
+    <gratuito>false</gratuito>
+    <solicitantes>
+        <solicitante>
+            <tipo>Velho 1</tipo>
+            <requisitos><![CDATA[Velho que é idoso]]></requisitos>
+        </solicitante>
+        <solicitante>
+            <tipo>Velho 2</tipo>
+            <requisitos><![CDATA[Velhão]]></requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <ate max="2" unidade="meses"/>
+        <descricao/>
+    </tempo-total-estimado>
+    <etapas>
+        <etapa>
+            <titulo>Etapa 1 velha</titulo>
+            <descricao><![CDATA[Velha descrição]]></descricao>
+            <documentos>
+                <default>
+                    <item>Velha documentação</item>
+                </default>
+            </documentos>
+            <custos>
+                <default>
+                    <custo>
+                        <descricao><![CDATA[Custo 1]]></descricao>
+                        <moeda/>
+                        <valor>110</valor>
+                    </custo>
+                </default>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao tipo="e-mail">
+                        <descricao><![CDATA[velho@email.com]]></descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa>
+            <titulo>Velha etapa 2</titulo>
+            <descricao><![CDATA[Descrição etapa 2]]></descricao>
+            <documentos>
+                <default>
+                    <item>Documentação 2</item>
+                </default>
+            </documentos>
+            <custos>
+                <default>
+                    <custo>
+                        <descricao><![CDATA[Custo 2]]></descricao>
+                        <moeda/>
+                        <valor>50</valor>
+                    </custo>
+                </default>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao tipo="postal">
+                        <descricao><![CDATA[Endereço do postal]]></descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/108999"/>
+    <segmentos-da-sociedade>
+        <item>Cidadãos</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Cidadania</item>
+        <item>Biodiversidade</item>
+        <item>Clima</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item>Velho 1</item>
+        <item>Velho 2</item>
+        <item>Velho 3</item>
+    </palavras-chave>
+    <legislacoes>
+        <item><![CDATA[teste legislação]]></item>
+    </legislacoes>
+</servico>
