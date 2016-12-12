@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>vitor-teste-banco</id>
+    <dbId>3597</dbId>
+    <nome>vitor teste banco</nome>
+    <sigla>sigla nova</sigla>
+    <nomes-populares>
+        <item id="52">vitor</item>
+        <item id="53">dois</item>
+        <item id="54">quatro</item>
+    </nomes-populares>
+    <descricao>gfshdgfshdgfhsdggfgdsghdfgv,mcnxbm,vncbxvc,m.nbm,xcv.,bmxc,v;.b;,xcmv.,;bmx.,cvmb,.xcmv,
+bmlçgkhlghçksfçldhkdhlçklhçkpyopitytopw yioptiyopitwytpohgjhlkjklgjiortyuitoyutiyuoqewrweo  rwqṕldçsalfadsfsaf.c;z,xv.;xcm,.cxmv,nbm,cv,.xb.cvmbcv.,mm mlkgjkhljoireoyuijhkldjjbnnb,mnmxnbxv,mnbcmv,nbm,nbm,vnxb ,mxnm,bnxcmv,nm,vnxcb,n ,mxvcnmbvmxcnbm,xcvnbnvcxm,
+nb,mcxvnbm.,xcnvbm,cvnbm,nvc,mxnbm ,vcxnbm,v,bnm,xvcnm,bvnbm,xcvnbm,v,mnbm,cxvnb</descricao>
+    <contato>COntato muillllllll</contato>
+    <gratuito>true</gratuito>
+    <solicitantes>
+        <solicitante id="40255">
+            <tipo>solicitante 1</tipo>
+            <requisitos>jhsafdjskgksdfhgdfskjgjhdfjsghsdjflkghkjdfhgjkhdfk  jshgbvvc,mnbmcvnx.m,bnxcvm.,nbm,.xcvn,mbnxcmv,bn m,cxvnbm,cvnbm,nxvcm,.bnx,mcvnb.m,cvnm,bnxcmv,nb jhsafdjskgksdfhgdfskjgjhdfjsghsdjflkghkjdfhgjkhdfkjshgbvvc ,mnbmcvnx.m,bnxcvm.,nbm,.xcvn,mbnxcmv,bnm,cxvnbm, cvnbm,nxvcm,.bnx,mcvnb.m,cvnm,bnxcmv,nbjhsafdjskgksd fhgdfskjgjhdfjsghsdjflkghkjdfhgjkhdfkjshgbvvc,mnbmcvnx.m,b nxcvm.,nbm,.xcvn,mbnxcmv,bnm,cxvnbm,cvnbm,nxvcm,. bnx,mcvnb.m,cvnm,bnxcmv,nbjhsafdjskgksdfhgdfskjgjhdfjsg=</requisitos>
+        </solicitante>
+        <solicitante id="40254">
+            <tipo>vitor</tipo>
+            <requisitos>jhsafdjskgksdfhgdfskjgjhdfjsghsdjflkghkjdfhgjkhdfkjshgbvvc, mnbmcvnx.m,bnxcvm.,nbm,.xcvn,mbnxcmv,bnm,cxvnbm,cv nbm,nxvcm,.bnx,mcvnb.m,cvnm,bnxcmv,nb</requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <entre min="1" max="2" unidade="meses"/>
+        <descricao>,nxvc,mnb.vc,m.nbm,xcvnm,bnm,xc vnm,bnm,xcnvbm,xcnm,bcxvbn,.mcxvnbmxkkk,nxvc,mnb.vc,m.nbm,xcvnm,bnm ,xcvnm,bnm,xcnvbm,xcnm,bcxvbn,.mcxvnbmxkkk,nxvc,mnb.v xcnvbm,xcnm,bcxvbn,.mcxvnbmxkkk,nxvc,mnb.vc,m.nbm, xcvnm,bnm,xcvnm,bnm,xcnvbm,xcnm,bcxvbn,.mcxvnbmxk kk,nxvc,mnb.vc,m.nbm,xcvnm,bnm,xcvnm,bnm,xcnvbm,xcnm,bcxvbn,. mcxvnbmxkkk,nxvc,mnb.vc,m.nbm,xcvnm,bnm,xcvnm,bnm,xcnvbm, xcnm,bcxvbn,.mcxvnbmxkkkffffffffff</descricao>
+    </tempo-total-estimado>
+    <etapas>
+        <etapa id="17397">
+            <titulo>Etapa nova 2</titulo>
+            <descricao></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="17350" tipo="web">
+                        <descricao>[uol](http://www.uol.com.br)</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa id="17401">
+            <titulo>vitor etapa</titulo>
+            <descricao></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="17352" tipo="telefone">
+                        <descricao>34243242</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa id="17394">
+            <titulo>Etapa 2</titulo>
+            <descricao>jsdhafjkhdafkjhjskfhjkdhsfjkashdfjkashdfcmxzn,mv</descricao>
+            <documentos>
+                <default>
+                    <item id="63259">Identidade</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="17347" tipo="web-emitir">
+                        <descricao>[uol](www.uol.com.br)</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa id="17399">
+            <titulo>etapa 4</titulo>
+            <descricao></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="17353" tipo="telefone">
+                        <descricao>3453546</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="108999"/>
+    <segmentos-da-sociedade>
+        <item idSegmento="1" idServicoSegmento="11566">Cidadãos</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Assistência Hospitalar e Ambulatorial</item>
+        <item>Cidadania</item>
+        <item>Combate a desigualdade</item>
+        <item>Comercio externo</item>
+        <item>Comunicações</item>
+        <item>Defesa Civil</item>
+        <item>Cooperação Internacional</item>
+        <item>Defesa agropecuária</item>
+        <item>Difusão Cultural</item>
+        <item>Defesa militar</item>
+        <item>Educação</item>
+        <item>Educação profissionalizante</item>
+        <item>Empregabilidade</item>
+        <item>Energia elétrica</item>
+        <item>Fiscalização do Estado</item>
+        <item>Abastecimento</item>
+        <item>Assistência ao Idoso</item>
+        <item>Atendimento básico</item>
+        <item>Combustíveis</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item id="17369">vitor</item>
+        <item id="17370">teste</item>
+        <item id="17371">kjgkdfjskgldfkl</item>
+        <item id="17372">bu</item>
+        <item id="17373">sd</item>
+        <item id="17374">dfsdfsdf</item>
+    </palavras-chave>
+    <legislacoes>
+        <item id="5822">legislacoa 1</item>
+        <item id="5823">legislacao 2</item>
+    </legislacoes>
+</servico>
