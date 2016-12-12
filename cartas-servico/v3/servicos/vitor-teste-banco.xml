@@ -30,7 +30,7 @@ nb,mcxvnbm.,xcnvbm,cvnbm,nvc,mxnbm ,vcxnbm,v,bnm,xvcnm,bvnbm,xcvnbm,v,mnbm,cxvnb
     </tempo-total-estimado>
     <etapas>
         <etapa id="17397">
-            <titulo>Etapa nova</titulo>
+            <titulo>Etapa nova 2</titulo>
             <descricao></descricao>
             <documentos>
                 <default/>
@@ -42,6 +42,23 @@ nb,mcxvnbm.,xcnvbm,cvnbm,nvc,mxnbm ,vcxnbm,v,bnm,xvcnm,bvnbm,xcvnbm,v,mnbm,cxvnb
                 <default>
                     <canal-de-prestacao id="17350" tipo="web">
                         <descricao>[uol](http://www.uol.com.br)</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa id="17401">
+            <titulo>vitor etapa</titulo>
+            <descricao></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="17352" tipo="telefone">
+                        <descricao>34243242</descricao>
                     </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
@@ -65,29 +82,19 @@ nb,mcxvnbm.,xcnvbm,cvnbm,nvc,mxnbm ,vcxnbm,v,bnm,xvcnm,bvnbm,xcvnbm,v,mnbm,cxvnb
                 </default>
             </canais-de-prestacao>
         </etapa>
-        <etapa id="17395">
-            <titulo>etapa 1</titulo>
-            <descricao>sfdsdfsafjkasflsadfjklasjdjkfklsçdajfkljkdslfjncm,nzxvm,nxzmc, nm,.xcnvm,nzmx,nv,mczxnm,vnafjlkhsdjgkhjkdfghjkhdsfgjk lsdfhieruwioputuiutoiweurtiuwertuewirutiowreuoptuowre utioerwtureiutweiro</descricao>
+        <etapa id="17399">
+            <titulo>etapa 4</titulo>
+            <descricao></descricao>
             <documentos>
-                <default>
-                    <item id="63262">Identidade</item>
-                    <item id="63261">CPF</item>
-                    <item id="63263">Cep</item>
-                </default>
-                <caso id="17310" descricao="Homem maio que 18 anos">
-                    <item id="63260">Certificado de Reservista</item>
-                </caso>
+                <default/>
             </documentos>
             <custos>
                 <default/>
             </custos>
             <canais-de-prestacao>
                 <default>
-                    <canal-de-prestacao id="17349" tipo="presencial">
-                        <descricao>rua 3 kdsjfkjsdlkjfklsdjafkkasdjfkljsdf</descricao>
-                    </canal-de-prestacao>
-                    <canal-de-prestacao id="17348" tipo="e-mail">
-                        <descricao>teste@email.com</descricao>
+                    <canal-de-prestacao id="17353" tipo="telefone">
+                        <descricao>3453546</descricao>
                     </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
