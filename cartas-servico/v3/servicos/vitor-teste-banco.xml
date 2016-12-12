@@ -41,7 +41,7 @@ nb,mcxvnbm.,xcnvbm,cvnbm,nvc,mxnbm ,vcxnbm,v,bnm,xvcnm,bvnbm,xcvnbm,v,mnbm,cxvnb
             <canais-de-prestacao>
                 <default>
                     <canal-de-prestacao id="17350" tipo="web">
-                        <descricao>www.uol.com.br</descricao>
+                        <descricao>[uol](http://www.uol.com.br)</descricao>
                     </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
@@ -83,11 +83,11 @@ nb,mcxvnbm.,xcnvbm,cvnbm,nvc,mxnbm ,vcxnbm,v,bnm,xvcnm,bvnbm,xcvnbm,v,mnbm,cxvnb
             </custos>
             <canais-de-prestacao>
                 <default>
-                    <canal-de-prestacao id="17348" tipo="e-mail">
-                        <descricao>teste@email.com</descricao>
-                    </canal-de-prestacao>
                     <canal-de-prestacao id="17349" tipo="presencial">
                         <descricao>rua 3 kdsjfkjsdlkjfklsdjafkkasdjfkljsdf</descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao id="17348" tipo="e-mail">
+                        <descricao>teste@email.com</descricao>
                     </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
