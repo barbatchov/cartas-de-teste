@@ -77,7 +77,7 @@ nb,mcxvnbm.,xcnvbm,cvnbm,nvc,mxnbm ,vcxnbm,v,bnm,xvcnm,bvnbm,xcvnbm,v,mnbm,cxvnb
             <canais-de-prestacao>
                 <default>
                     <canal-de-prestacao id="17347" tipo="web-emitir">
-                        <descricao>www.uol.com.br</descricao>
+                        <descricao>[uol](www.uol.com.br)</descricao>
                     </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
