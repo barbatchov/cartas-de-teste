@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>teste-josselmo</id>
+    <dbId>3598</dbId>
+    <nome>Teste - Josselmo</nome>
+    <sigla>JQB</sigla>
+    <nomes-populares>
+        <item id="55">nomes populares 1</item>
+        <item id="56">nomes populares 2</item>
+        <item id="57">nomes populares 3</item>
+    </nomes-populares>
+    <descricao>JOSSELMOxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXXXXXXXxxxJOSSELMO</descricao>
+    <contato>Contato do serviço Tel. 36425215</contato>
+    <gratuito>false</gratuito>
+    <solicitantes>
+        <solicitante id="40256">
+            <tipo>Solicitante 01</tipo>
+            <requisitos>Requisitos 01</requisitos>
+        </solicitante>
+        <solicitante id="40257">
+            <tipo>Solicitante 02</tipo>
+            <requisitos>Requisitos 02</requisitos>
+        </solicitante>
+        <solicitante id="40258">
+            <tipo>Solicitante 03</tipo>
+            <requisitos>Requisitos 03</requisitos>
+        </solicitante>
+        <solicitante id="40259">
+            <tipo>Solicitante 04</tipo>
+            <requisitos>Requisitos 04</requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <entre min="1" max="2" unidade="meses"/>
+        <descricao>JOSSELMOxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXXXXXXXxxxJOSSELMO</descricao>
+    </tempo-total-estimado>
+    <etapas>
+        <etapa id="17391">
+            <titulo>Etapa 01</titulo>
+            <descricao>Descrição da etapa 1</descricao>
+            <documentos>
+                <default>
+                    <item id="63251">CPF</item>
+                    <item id="63250">CPF</item>
+                    <item id="63249">CPF</item>
+                </default>
+            </documentos>
+            <custos>
+                <default>
+                    <custo id="19">
+                        <descricao>Teste</descricao>
+                        <moeda></moeda>
+                        <valor>15,000</valor>
+                    </custo>
+                </default>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="17343" tipo="postal">
+                        <descricao>Canal de prestação da etapa 02</descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao id="17342" tipo="presencial">
+                        <descricao>Canal de prestação da etapa 01</descricao>
+                    </canal-de-prestacao>
+                </default>
+                <caso id="17308" descricao="Caso 02">
+                    <canal-de-prestacao id="17341" tipo="fax">
+                        <descricao>Descrição do Caso 02</descricao>
+                    </canal-de-prestacao>
+                </caso>
+                <caso id="17307" descricao="Caso 01">
+                    <canal-de-prestacao id="17340" tipo="postal">
+                        <descricao>Descrição do Caso 01</descricao>
+                    </canal-de-prestacao>
+                </caso>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa id="17392">
+            <titulo>Etapa 02</titulo>
+            <descricao>Descrição da etapa 2</descricao>
+            <documentos>
+                <default>
+                    <item id="63255">Comprovante de Rendimento</item>
+                    <item id="63254">Curriculum</item>
+                    <item id="63253">Identidade</item>
+                    <item id="63252">CPF</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="17344" tipo="fax">
+                        <descricao>Canais de prestacao da etapa 2</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="108999"/>
+    <segmentos-da-sociedade>
+        <item idSegmento="1" idServicoSegmento="11562">Cidadãos</item>
+        <item idSegmento="2" idServicoSegmento="11563">Órgãos e entidades públicas</item>
+        <item idSegmento="4" idServicoSegmento="11564">Demais segmentos (ONGs, organizações sociais, etc)</item>
+        <item idSegmento="3" idServicoSegmento="11565">Empresas</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Abastecimento</item>
+        <item>Administração</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item id="17366">a</item>
+        <item id="17367">b</item>
+        <item id="17368">c</item>
+    </palavras-chave>
+    <legislacoes>
+        <item id="5819">Legislações relacionadas ao serviço 01</item>
+        <item id="5820">Legislações relacionadas ao serviço 02</item>
+        <item id="5821">Legislações relacionadas ao serviço 03</item>
+    </legislacoes>
+</servico>
