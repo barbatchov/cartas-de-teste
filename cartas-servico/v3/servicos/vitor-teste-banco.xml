@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>vitor-teste-banco</id>
+    <dbId>3597</dbId>
+    <nome>vitor teste banco</nome>
+    <sigla>sigla nova</sigla>
+    <nomes-populares>
+        <item id="52">vitor</item>
+        <item id="53">dois</item>
+        <item id="54">quatro</item>
+    </nomes-populares>
+    <descricao>gfshdgfshdgfhsdggfgdsghdfgv,mcnxbm,vncbxvc,m.nbm,xcv.,bmxc,v;.b;,xcmv.,;bmx.,cvmb,.xcmv,;bmlçgkhlghçksfçldhkdhlçklhçkpyopitytopwyioptiyopitwytpohgjhlkjklgjiortyuitoyutiyuoqewrweorwqṕldçsalfadsfsaf.c;z,xv.;xcm,.cxmv,nbm,cv,.xb.cvmbcv.,mmmlkgjkhljoireoyuijhkldjjbnnb,mnmxnbxv,mnbcmv,nbm,nbm,vnxb,mxnm,bnxcmv,nm,vnxcb,n,mxvcnmbvmxcnbm,xcvnbnvcxm,nb,mcxvnbm.,xcnvbm,cvnbm,nvc,mxnbm,vcxnbm,v,bnm,xvcnm,bvnbm,xcvnbm,v,mnbm,cxvnbm,xvcnbm,nxvc,mnb.vc,m.nbm,xcvnm,bnm,xcvnm,bnm,xcnvbm,xcnm,bcxvbn,.mcxvnb</descricao>
+    <contato>COntato muillllllll</contato>
+    <gratuito>true</gratuito>
+    <solicitantes>
+        <solicitante id="40255">
+            <tipo>solicitante 1</tipo>
+            <requisitos>jhsafdjskgksdfhgdfskjgjhdfjsghsdjflkghkjdfhgjkhdfkjshgbvvc,mnbmcvnx.m,bnxcvm.,nbm,.xcvn,mbnxcmv,bnm,cxvnbm,cvnbm,nxvcm,.bnx,mcvnb.m,cvnm,bnxcmv,nbjhsafdjskgksdfhgdfskjgjhdfjsghsdjflkghkjdfhgjkhdfkjshgbvvc,mnbmcvnx.m,bnxcvm.,nbm,.xcvn,mbnxcmv,bnm,cxvnbm,cvnbm,nxvcm,.bnx,mcvnb.m,cvnm,bnxcmv,nbjhsafdjskgksdfhgdfskjgjhdfjsghsdjflkghkjdfhgjkhdfkjshgbvvc,mnbmcvnx.m,bnxcvm.,nbm,.xcvn,mbnxcmv,bnm,cxvnbm,cvnbm,nxvcm,.bnx,mcvnb.m,cvnm,bnxcmv,nbjhsafdjskgksdfhgdfskjgjhdfjsg=</requisitos>
+        </solicitante>
+        <solicitante id="40254">
+            <tipo>vitor</tipo>
+            <requisitos>jhsafdjskgksdfhgdfskjgjhdfjsghsdjflkghkjdfhgjkhdfkjshgbvvc,mnbmcvnx.m,bnxcvm.,nbm,.xcvn,mbnxcmv,bnm,cxvnbm,cvnbm,nxvcm,.bnx,mcvnb.m,cvnm,bnxcmv,nb</requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <entre min="1" max="2" unidade="meses"/>
+        <descricao>,nxvc,mnb.vc,m.nbm,xcvnm,bnm,xcvnm,bnm,xcnvbm,xcnm,bcxvbn,.mcxvnbmxkkk,nxvc,mnb.vc,m.nbm,xcvnm,bnm,xcvnm,bnm,xcnvbm,xcnm,bcxvbn,.mcxvnbmxkkk,nxvc,mnb.vc,m.nbm,xcvnm,bnm,xcvnm,bnm,xcnvbm,xcnm,bcxvbn,.mcxvnbmxkkk,nxvc,mnb.vc,m.nbm,xcvnm,bnm,xcvnm,bnm,xcnvbm,xcnm,bcxvbn,.mcxvnbmxkkk,nxvc,mnb.vc,m.nbm,xcvnm,bnm,xcvnm,bnm,xcnvbm,xcnm,bcxvbn,.mcxvnbmxkkk,nxvc,mnb.vc,m.nbm,xcvnm,bnm,xcvnm,bnm,xcnvbm,xcnm,bcxvbn,.mcxvnbmxkkk,nxvc,mnb.vc,m.nbm,xcvnm,bnm,xcvnm,bnm,xcnvbm,xcnm,bcxvbn,.mcxvnbmxkkkffffffffff</descricao>
+    </tempo-total-estimado>
+    <etapas>
+        <etapa id="17393">
+            <titulo>etapa 1</titulo>
+            <descricao>sfdsdfsafjkasflsadfjklasjdjkfklsçdajfkljkdslfjncm,nzxvm,nxzmc,nm,.xcnvm,nzmx,nv,mczxnm,vnafjlkhsdjgkhjkdfghjkhdsfgjklsdfhieruwioputuiutoiweurtiuwertuewirutiowreuoptuowreutioerwtureiutweiro</descricao>
+            <documentos>
+                <default>
+                    <item id="63258">CPF</item>
+                    <item id="63257">Identidade</item>
+                </default>
+                <caso id="17309" descricao="Homem maio que 18 anos">
+                    <item id="63256">Certificado de Reservista</item>
+                </caso>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="17345" tipo="presencial">
+                        <descricao>rua 3 kdsjfkjsdlkjfklsdjafkkasdjfkljsdf</descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao id="17346" tipo="e-mail">
+                        <descricao>teste@email.com</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa id="17394">
+            <titulo>Etapa 2</titulo>
+            <descricao>jsdhafjkhdafkjhjskfhjkdhsfjkashdfjkashdfcmxzn,mv</descricao>
+            <documentos>
+                <default>
+                    <item id="63259">Identidade</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="17347" tipo="web-emitir">
+                        <descricao>www.uol.com.br</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="108999"/>
+    <segmentos-da-sociedade>
+        <item idSegmento="1" idServicoSegmento="11566">Cidadãos</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Assistência Hospitalar e Ambulatorial</item>
+        <item>Cidadania</item>
+        <item>Combate a desigualdade</item>
+        <item>Comercio externo</item>
+        <item>Comunicações</item>
+        <item>Defesa Civil</item>
+        <item>Cooperação Internacional</item>
+        <item>Defesa agropecuária</item>
+        <item>Difusão Cultural</item>
+        <item>Defesa militar</item>
+        <item>Educação</item>
+        <item>Educação profissionalizante</item>
+        <item>Empregabilidade</item>
+        <item>Energia elétrica</item>
+        <item>Fiscalização do Estado</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item id="17369">vitor</item>
+        <item id="17370">teste</item>
+        <item id="17371">kjgkdfjskgldfkl</item>
+        <item id="17372">bu</item>
+        <item id="17373">sd</item>
+        <item id="17374">dfsdfsdf</item>
+    </palavras-chave>
+    <legislacoes>
+        <item id="5822">legislacoa 1</item>
+        <item id="5823">legislacao 2</item>
+    </legislacoes>
+</servico>
