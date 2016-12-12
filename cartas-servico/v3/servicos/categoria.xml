@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>categoria</id>
+    <dbId>3600</dbId>
+    <nome>categoria</nome>
+    <sigla></sigla>
+    <descricao>nada</descricao>
+    <contato></contato>
+    <gratuito>false</gratuito>
+    <solicitantes>
+        <solicitante id="40261">
+            <tipo>josselmo</tipo>
+            <requisitos></requisitos>
+        </solicitante>
+        <solicitante id="40262">
+            <tipo>teste 3</tipo>
+            <requisitos></requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <ate max="1" unidade="horas"/>
+        <descricao></descricao>
+    </tempo-total-estimado>
+    <etapas>
+        <etapa id="17396">
+            <titulo>rua</titulo>
+            <descricao></descricao>
+            <documentos>
+                <default>
+                    <item id="63265">IDENTIDADE</item>
+                    <item id="63264">CPF</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="17354" tipo="e-mail">
+                        <descricao>nada</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa id="17398">
+            <titulo>rua 2</titulo>
+            <descricao></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="17351" tipo="web">
+                        <descricao>www.uol.com.br</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="108999"/>
+    <segmentos-da-sociedade>
+        <item idSegmento="1" idServicoSegmento="11567">Cidadãos</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Defesa militar</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item id="17375">teste</item>
+        <item id="17376">teste 1</item>
+        <item id="17377">teste 2</item>
+    </palavras-chave>
+    <legislacoes>
+        <item id="5824">nada</item>
+    </legislacoes>
+</servico>
