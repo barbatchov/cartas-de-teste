@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd">
     <id>vitor-ricardo-teste</id>
     <dbId>3602</dbId>
-    <nome>vitor ricardo teste</nome>
+    <nome>vitor-ricardo-teste-12345</nome>
     <sigla>silgkjkl</sigla>
     <nomes-populares>
         <item id="58">sfdfsfs</item>
@@ -25,7 +25,7 @@
         </solicitante>
     </solicitantes>
     <tempo-total-estimado>
-        <entre min="10" max="87" unidade="meses"/>
+        <entre max="87" min="10" unidade="meses"/>
         <descricao>sdfsdfdsafsfasdfsaf sdfsdfdsafsfasdfsafsdfsdfdsafsfasd fsafsdfsdfdsafsfasdfsafsdfsdfdsafsfas dfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafs  fasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfd safsfasdfsafsdfsdfdsaf</descricao>
     </tempo-total-estimado>
     <etapas>
@@ -38,7 +38,7 @@
                     <item id="63279">CPF</item>
                     <item id="63280">CEp</item>
                 </default>
-                <caso id="17316" descricao="caos 1">
+                <caso descricao="caos 1" id="17316">
                     <item id="63277">documento 1</item>
                 </caso>
             </documentos>
@@ -51,7 +51,7 @@
                         <descricao>agenda</descricao>
                     </canal-de-prestacao>
                 </default>
-                <caso id="17317" descricao="caso 2 canal">
+                <caso descricao="caso 2 canal" id="17317">
                     <canal-de-prestacao id="17357" tipo="presencial">
                         <descricao>na rua 3</descricao>
                     </canal-de-prestacao>
