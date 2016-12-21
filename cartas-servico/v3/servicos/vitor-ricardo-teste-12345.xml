@@ -5,41 +5,48 @@
     <nome>vitor ricardo teste 12345</nome>
     <sigla>silgkjkl 12345</sigla>
     <nomes-populares>
-        <item id="58">sfdfsfs</item>
-        <item id="59">dfssfsdfsdfsd</item>
-        <item id="60">dfdsfsdvbvcbcb</item>
-        <item id="61">gdfgdhjghnvb</item>
-        <item id="62">ghdgghgfh</item>
+        <item id="58">sfdfsfs 12345</item>
+        <item id="59">dfssfsdfsdfsd12345</item>
+        <item id="60">dfdsfsdvbvcbcb 12345</item>
+        <item id="61">gdfgdhjghnvb 12345</item>
+        <item id="62">ghdgghgfh 12345</item>
     </nomes-populares>
-    <descricao>cxzvnm,xcnmvnxczb,mvncm,bnxcmv.,bsdhfguoiqreoygdfjknhg cxzvnm,xcnmvnxczb,mvncm,bnxcmv.,bsdhfguoiqreoygdfjknhgcxzvnm,xcnmvnxczb,mvncm,bnxcmv.,bsdhfguoiqreoygdfjknhgvcxzvnm,xcnmvnxczb,mvncm,bnxcmv.,bsdhfguoiqreoygdfjknhgcxzvnm,xcnmvnxczb,mvncm,bnxcmv.,bsdhfguoiqreoygdfjknhgcxzvnm,xcnmvnxczb,mvncm,bnxcmv.,bsdhfguoiqreoygdfjknhgcxzvnm,xcnmvnxczb,mvncm,bnxcmv.,bsdhfguoiqreoygdfjknhgvvcxzvnm,xcnmvnxczb,mvncm,bnxcmv.,bsdhfguoiqreoygdfjknhgvvvcxzvnm,xcnmvnxczb,mvnc</descricao>
-    <contato>conhgdsahfhgdshf conhgdsahfhgdshfconhgdsahfhgdshfconhgdsahfhgdshfconhgdsahfhgdshf conhgdsahfhgdshfconhgdsahfhgdshfconhgdsahfhgdshfconhgdsahfhgdshfconhgdsahfhgdshfconhgdsahfhgdshfconhgdsahfhgdshfconhgdsahfhgdshfconhgdsahfhgdshfconhgdsahfhgdshfconhgdsahfhgdshfconhgdsahfhgdshf conhgdsahfhgdshfconhgdsahfhgdshf  vzbvc conhgdsahfhgdshfconhgdsahfhgdshfconhgdsahfhgdshfconhgdsahfhgdshfconhgdsahfhgdshfc</contato>
+    <descricao>cxzvnm,xcnmvnxczb,mvncm,bnxcmv.,bsdhfguoiqreoygdfjknhg cxzvnm,xcnmvnxczb,mvncm,bnxcmv.,bsdhfguoiqreoygdfjknhgcxzvnm,xcnmvnxczb,mvncm,bnxcmv.,bsdhfguoiqreoygdfjknhgvcxzvnm,xcnmvnxczb,mvncm,bnxcmv.,bsdhfguoiqreoygdfjknhgcxzvnm,xcnmvnxczb,mvncm,bnxcmv.,bsdhfguoiqreoygdfjknhgcxzvnm,xcnmvnxczb,mvncm,bnxcmv.,bsdhfguoiqreoygdfjknhgcxzvnm,xcnmvnxczb,mvncm,bnxcmv.,bsdhfguoiqreoygdfjknhgvvcxzvnm,xcnmvnxczb,mvncm,bnxcmv.,bsdhfguoiqreoygdfjknhgvvvcxzvnm,xcnmvnxczb,mvnc  12345</descricao>
+    <contato>conhgdsahfhgdshf conhgdsahfhgdshfconhgdsahfhgdshfconhgdsahfhgdshfconhgdsahfhgdshf conhgdsahfhgdshfconhgdsahfhgdshfconhgdsahfhgdshfconhgdsahfhgdshfconhgdsahfhgdshfconhgdsahfhgdshfconhgdsahfhgdshfconhgdsahfhgdshfconhgdsahfhgdshfconhgdsahfhgdshfconhgdsahfhgdshfconhgdsahfhgdshf conhgdsahfhgdshfconhgdsahfhgdshf  vzbvc 12345 conhgdsahfhgdshfconhgdsahfhgdshfconhgdsahfhgdshfconhgdsahfhgdshfconhgdsahfhgdshfc</contato>
     <gratuito>true</gratuito>
     <solicitantes>
         <solicitante id="40263">
-            <tipo>solictante 1</tipo>
-            <requisitos>sdfsdfdsafsfasdfsaf sdfsdfdsafsfasdfsafsdfsdfdsafsfasd fsafsdfsdfdsafsfasdfsafsdfsdfdsafsfas dfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafs  fasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfd safsfasdfsafsdfsdfdsafsdfsdfdsafsfasdfsaf sdfsdfdsafsfasdfsafsdfsdfdsafsfasd fsafsdfsdfdsafsfasdfsafsdfsdfdsafsfas dfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfs</requisitos>
+            <tipo>solictante 1 12345</tipo>
+            <requisitos>sdfsdfdsafsfasdfsaf sdfsdfdsafsfasdfsafsdfsdfdsafsfasd fsafsdfsdfdsafsfasdfsafsdfsdfdsafsfas dfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafs  fasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfd safsfasdfsafsdfsdfdsafsdfsdfdsafsfasdfsaf sdfsdfdsafsfasdfsafsdfsdfdsafsfasd fsafsdfsdfdsafsfasdfsafsdfsdfdsafsfas  12345dfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfs</requisitos>
         </solicitante>
         <solicitante id="40264">
-            <tipo>Solictante 2</tipo>
-            <requisitos>cvzxvczxvzvcxzvcxvxczvzxvcxzv</requisitos>
+            <tipo>Solictante 2 12345</tipo>
+            <requisitos>cvzxvczxvzvcxzvcxvxczvzxvcxzv 12345</requisitos>
+        </solicitante>
+        <solicitante id="40265">
+            <tipo>Solictante 3</tipo>
+            <requisitos>safsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafs</requisitos>
         </solicitante>
     </solicitantes>
     <tempo-total-estimado>
-        <entre min="10" max="87" unidade="meses"/>
-        <descricao>sdfsdfdsafsfasdfsaf sdfsdfdsafsfasdfsafsdfsdfdsafsfasd fsafsdfsdfdsafsfasdfsafsdfsdfdsafsfas dfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafs  fasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfd safsfasdfsafsdfsdfdsaf</descricao>
+        <ate max="10" unidade="horas"/>
+        <descricao>sdfsdfdsafsfasdfsaf sdfsdfdsafsfasdfsafsdfsdfdsafsfasd fsafsdfsdfdsafsfasdfsafsdfsdfdsafsfas dfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafs  fasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfd safsfasdfsafsdfsdfdsaf 12345</descricao>
     </tempo-total-estimado>
     <etapas>
         <etapa id="17403">
-            <titulo>Etapa 1</titulo>
-            <descricao>sdfsdfdsafsfasdfsaf sdfsdfdsafsfasdfsafsdfsdfdsafsfasd fsafsdfsdfdsafsfasdfsafsdfsdfdsafsfas dfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafs  sdfsdfdsafsfasdfsaf sdfsdfdsafsfasdfsafsdfsdfdsafsfasd fsafsdfsdfdsafsfasdfsafsdfsdfdsafsfas dfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafs  sdfsdfdsafsfasdfsaf sdfsdfdsafsfasdfsafsdfsdfdsafsfasd fsafsdfsdfdsafsfasdfsafsdfsdfdsafsfas</descricao>
+            <titulo>Etapa 1 12345</titulo>
+            <descricao>sdfsdfdsafsfasdfsaf sdfsdfdsafsfasdfsafsdfsdfdsafsfasd fsafsdfsdfdsafsfasdfsafsdfsdfdsafsfas dfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafs  sdfsdfdsafsfasdfsaf sdfsdfdsafsfasdfsafsdfsdfdsafsfasd fsafsdfsdfdsafsfasdfsafsdfsdfdsafsfas dfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafs  sdfsdfdsafsfasdfsaf sdfsdfdsafsfasdfsafsdfsdfdsafsfasd fsafsdfsdfdsafsfasdfsafsdfsdfdsafsfas 12345</descricao>
             <documentos>
                 <default>
-                    <item id="63278">identidade</item>
-                    <item id="63279">CPF</item>
-                    <item id="63280">CEp</item>
+                    <item id="63278">identidade 12345</item>
+                    <item id="63279">CPF 12345</item>
+                    <item id="63280">CEp 12345</item>
                 </default>
-                <caso id="17316" descricao="caos 1">
-                    <item id="63277">documento 1</item>
+                <caso id="17316" descricao="caos 1 12345">
+                    <item id="63277">documento 1 12345</item>
+                </caso>
+                <caso id="17318" descricao="Caso 4">
+                    <item id="63283">documento 4</item>
                 </caso>
             </documentos>
             <custos>
@@ -47,24 +54,24 @@
             </custos>
             <canais-de-prestacao>
                 <default>
-                    <canal-de-prestacao id="17356" tipo="web-agendar">
-                        <descricao>agenda</descricao>
+                    <canal-de-prestacao id="17356" tipo="postal">
+                        <descricao>agenda 12345</descricao>
                     </canal-de-prestacao>
                 </default>
-                <caso id="17317" descricao="caso 2 canal">
-                    <canal-de-prestacao id="17357" tipo="presencial">
-                        <descricao>na rua 3</descricao>
+                <caso id="17317" descricao="caso 2 canal 12345">
+                    <canal-de-prestacao id="17357" tipo="e-mail">
+                        <descricao>na rua 3 12345</descricao>
                     </canal-de-prestacao>
                 </caso>
             </canais-de-prestacao>
         </etapa>
         <etapa id="17404">
-            <titulo>Etapa 2</titulo>
-            <descricao>ahsfkjhdjksfhasjdkhfkjhsdjc  mcnvm,zxnvm,nxz,mvnzcx,mn mnmvcm,zxncm,zxncm.,vn cmvm,ncxm,vnxc,mnv,mxcnvm,nxc,mn mvm,cxnvjkdfkghsdjfkhgjkl ahsfkjhdjksfhasjdkhfkjhsdjc  mcnvm,zxnvm,nxz,mvnzcx,mn mnmvcm,zxncm,zxncm.,vn cmvm,ncxm,vnxc,mnv,mxcnvm,nxc,mn mvm,cxnvjkdfkghsdjfkhgjklahsfkjhdjksfhasjdkhfkjhsdjc  mcnvm,zxnvm,nxz,mvnzcx,mn mnmvcm,zxncm,zxncm.,vn cmvm,ncxm,vnxc,mnv,mxcnvm,nxc,mn</descricao>
+            <titulo>Etapa 2 12345</titulo>
+            <descricao>ahsfkjhdjksfhasjdkhfkjhsdjc  mcnvm,zxnvm,nxz,mvnzcx,mn mnmvcm,zxncm,zxncm.,vn cmvm,ncxm,vnxc,mnv,mxcnvm,nxc,mn mvm,cxnvjkdfkghsdjfkhgjkl ahsfkjhdjksfhasjdkhfkjhsdjc  mcnvm,zxnvm,nxz,mvnzcx,mn mnmvcm,zxncm,zxncm.,vn cmvm,ncxm,vnxc,mnv,mxcnvm,nxc,mn mvm,cxnvjkdfkghsdjfkhgjklahsfkjhdjksfhasjdkhfkjhsdjc  mcnvm,zxnvm,nxz,mvnzcx,mn mnmvcm,zxncm,zxncm.,vn cmvm,ncxm,vnxc,mnv,mxcnvm,nxc,mn 12345</descricao>
             <documentos>
                 <default>
-                    <item id="63281">Endereço</item>
-                    <item id="63282">Endereço 2</item>
+                    <item id="63281">Endereço 12345</item>
+                    <item id="63282">Endereço 2 12345</item>
                 </default>
             </documentos>
             <custos>
@@ -73,7 +80,26 @@
             <canais-de-prestacao>
                 <default>
                     <canal-de-prestacao id="17358" tipo="postal">
-                        <descricao>teste 34</descricao>
+                        <descricao>teste 34 12345</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa id="17405">
+            <titulo>Etapa 3</titulo>
+            <descricao>jhgjdhfskjhghjdkfsmnbvcnbncm,b uiytiuwyetyuytrwturyeu jkldfjhkgljhlkjdkfghjçdlkhklgf ,.mbv.,mb.,mcv.,x.,m jgfjfkljgkjsdkglfçjgsjdçglkfkdjlsgsdfklçjgkldfjgklsdjfklgjkdslfjgklsfdjgçlm,m,cbnm,cnm,bnm,cnc ,mbm,cvnbm,vncbdh fklgkdsjgklsjkgljfkdlsgjkdlfjgruewoip</descricao>
+            <documentos>
+                <default>
+                    <item id="63284">Documento 1</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="17359" tipo="postal">
+                        <descricao>sfdhhskjfghjkdfhdg</descricao>
                     </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
@@ -92,13 +118,14 @@
         <item>Defesa Nacional</item>
     </areas-de-interesse>
     <palavras-chave>
-        <item id="17378">xcvxcnbhjvb</item>
-        <item id="17379">kjfkdlsgjksldfj</item>
-        <item id="17380">kljsdkfljdskljgskfljkdsk</item>
-        <item id="17381">fdgfdgsfdgfdggfgdf</item>
+        <item id="17378">xcvxcnbhjvb 12345</item>
+        <item id="17379">kjfkdlsgjksldfj 12345</item>
+        <item id="17380">kljsdkfljdskljgskfljkdsk 12345</item>
+        <item id="17381">fdgfdgsfdgfdggfgdf 12345</item>
     </palavras-chave>
     <legislacoes>
-        <item id="5825">12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890</item>
-        <item id="5826">12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012</item>
+        <item id="5825">12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789 12345</item>
+        <item id="5826">12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012 12345</item>
+        <item id="5827">Legislacao 3</item>
     </legislacoes>
 </servico>
