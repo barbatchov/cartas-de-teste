@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd">
+    <id>vitor-ricardo-teste</id>
+    <dbId>3602</dbId>
+    <nome>vitor-ricardo-teste-12345</nome>
+    <sigla>silgkjkl</sigla>
+    <nomes-populares>
+        <item id="58">sfdfsfs</item>
+        <item id="59">dfssfsdfsdfsd</item>
+        <item id="60">dfdsfsdvbvcbcb</item>
+        <item id="61">gdfgdhjghnvb</item>
+        <item id="62">ghdgghgfh</item>
+    </nomes-populares>
+    <descricao>cxzvnm,xcnmvnxczb,mvncm,bnxcmv.,bsdhfguoiqreoygdfjknhg cxzvnm,xcnmvnxczb,mvncm,bnxcmv.,bsdhfguoiqreoygdfjknhgcxzvnm,xcnmvnxczb,mvncm,bnxcmv.,bsdhfguoiqreoygdfjknhgvcxzvnm,xcnmvnxczb,mvncm,bnxcmv.,bsdhfguoiqreoygdfjknhgcxzvnm,xcnmvnxczb,mvncm,bnxcmv.,bsdhfguoiqreoygdfjknhgcxzvnm,xcnmvnxczb,mvncm,bnxcmv.,bsdhfguoiqreoygdfjknhgcxzvnm,xcnmvnxczb,mvncm,bnxcmv.,bsdhfguoiqreoygdfjknhgvvcxzvnm,xcnmvnxczb,mvncm,bnxcmv.,bsdhfguoiqreoygdfjknhgvvvcxzvnm,xcnmvnxczb,mvnc</descricao>
+    <contato>conhgdsahfhgdshf conhgdsahfhgdshfconhgdsahfhgdshfconhgdsahfhgdshfconhgdsahfhgdshf conhgdsahfhgdshfconhgdsahfhgdshfconhgdsahfhgdshfconhgdsahfhgdshfconhgdsahfhgdshfconhgdsahfhgdshfconhgdsahfhgdshfconhgdsahfhgdshfconhgdsahfhgdshfconhgdsahfhgdshfconhgdsahfhgdshfconhgdsahfhgdshf conhgdsahfhgdshfconhgdsahfhgdshf  vzbvc conhgdsahfhgdshfconhgdsahfhgdshfconhgdsahfhgdshfconhgdsahfhgdshfconhgdsahfhgdshfc</contato>
+    <gratuito>true</gratuito>
+    <solicitantes>
+        <solicitante id="40263">
+            <tipo>solictante 1</tipo>
+            <requisitos>sdfsdfdsafsfasdfsaf sdfsdfdsafsfasdfsafsdfsdfdsafsfasd fsafsdfsdfdsafsfasdfsafsdfsdfdsafsfas dfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafs  fasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfd safsfasdfsafsdfsdfdsafsdfsdfdsafsfasdfsaf sdfsdfdsafsfasdfsafsdfsdfdsafsfasd fsafsdfsdfdsafsfasdfsafsdfsdfdsafsfas dfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfs</requisitos>
+        </solicitante>
+        <solicitante id="40264">
+            <tipo>Solictante 2</tipo>
+            <requisitos>cvzxvczxvzvcxzvcxvxczvzxvcxzv</requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <entre max="87" min="10" unidade="meses"/>
+        <descricao>sdfsdfdsafsfasdfsaf sdfsdfdsafsfasdfsafsdfsdfdsafsfasd fsafsdfsdfdsafsfasdfsafsdfsdfdsafsfas dfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafs  fasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfd safsfasdfsafsdfsdfdsaf</descricao>
+    </tempo-total-estimado>
+    <etapas>
+        <etapa id="17403">
+            <titulo>Etapa 1</titulo>
+            <descricao>sdfsdfdsafsfasdfsaf sdfsdfdsafsfasdfsafsdfsdfdsafsfasd fsafsdfsdfdsafsfasdfsafsdfsdfdsafsfas dfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafs  sdfsdfdsafsfasdfsaf sdfsdfdsafsfasdfsafsdfsdfdsafsfasd fsafsdfsdfdsafsfasdfsafsdfsdfdsafsfas dfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafsfasdfsafsdfsdfdsafs  sdfsdfdsafsfasdfsaf sdfsdfdsafsfasdfsafsdfsdfdsafsfasd fsafsdfsdfdsafsfasdfsafsdfsdfdsafsfas</descricao>
+            <documentos>
+                <default>
+                    <item id="63278">identidade</item>
+                    <item id="63279">CPF</item>
+                    <item id="63280">CEp</item>
+                </default>
+                <caso descricao="caos 1" id="17316">
+                    <item id="63277">documento 1</item>
+                </caso>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="17356" tipo="web-agendar">
+                        <descricao>agenda</descricao>
+                    </canal-de-prestacao>
+                </default>
+                <caso descricao="caso 2 canal" id="17317">
+                    <canal-de-prestacao id="17357" tipo="presencial">
+                        <descricao>na rua 3</descricao>
+                    </canal-de-prestacao>
+                </caso>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa id="17404">
+            <titulo>Etapa 2</titulo>
+            <descricao>ahsfkjhdjksfhasjdkhfkjhsdjc  mcnvm,zxnvm,nxz,mvnzcx,mn mnmvcm,zxncm,zxncm.,vn cmvm,ncxm,vnxc,mnv,mxcnvm,nxc,mn mvm,cxnvjkdfkghsdjfkhgjkl ahsfkjhdjksfhasjdkhfkjhsdjc  mcnvm,zxnvm,nxz,mvnzcx,mn mnmvcm,zxncm,zxncm.,vn cmvm,ncxm,vnxc,mnv,mxcnvm,nxc,mn mvm,cxnvjkdfkghsdjfkhgjklahsfkjhdjksfhasjdkhfkjhsdjc  mcnvm,zxnvm,nxz,mvnzcx,mn mnmvcm,zxncm,zxncm.,vn cmvm,ncxm,vnxc,mnv,mxcnvm,nxc,mn</descricao>
+            <documentos>
+                <default>
+                    <item id="63281">Endereço</item>
+                    <item id="63282">Endereço 2</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="17358" tipo="postal">
+                        <descricao>teste 34</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="108999"/>
+    <segmentos-da-sociedade>
+        <item idSegmento="1" idServicoSegmento="11568">Cidadãos</item>
+        <item idSegmento="3" idServicoSegmento="11569">Empresas</item>
+        <item idSegmento="4" idServicoSegmento="11570">Demais segmentos (ONGs, organizações sociais, etc)</item>
+        <item idSegmento="2" idServicoSegmento="11571">Órgãos e entidades públicas</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Biodiversidade</item>
+        <item>Combate a desigualdade</item>
+        <item>Defesa Nacional</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item id="17378">xcvxcnbhjvb</item>
+        <item id="17379">kjfkdlsgjksldfj</item>
+        <item id="17380">kljsdkfljdskljgskfljkdsk</item>
+        <item id="17381">fdgfdgsfdgfdggfgdf</item>
+    </palavras-chave>
+    <legislacoes>
+        <item id="5825">12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890</item>
+        <item id="5826">12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012</item>
+    </legislacoes>
+</servico>
