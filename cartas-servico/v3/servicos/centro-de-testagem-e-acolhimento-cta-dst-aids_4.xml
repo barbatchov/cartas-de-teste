@@ -20,8 +20,14 @@
     </solicitantes>
     <tempo-total-estimado>
         <ate max="1" unidade="horas"/>
-        <descricao></descricao>
+        <descricao>comentario</descricao>
     </tempo-total-estimado>
+    <validade-documento>
+        <tipo>Válido por</tipo>
+        <quantidade>20</quantidade>
+        <unidade>dias</unidade>
+        <descricao>info</descricao>
+    </validade-documento>
     <etapas>
         <etapa id="17387">
             <titulo>Etapas</titulo>
@@ -47,6 +53,7 @@
     </segmentos-da-sociedade>
     <areas-de-interesse>
         <item>Saúde</item>
+        <item>Fomento ao Trabalho</item>
     </areas-de-interesse>
     <palavras-chave>
         <item id="17363">Aids</item>
