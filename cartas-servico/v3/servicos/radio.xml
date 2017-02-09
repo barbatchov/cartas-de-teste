@@ -3,7 +3,7 @@
     <id>radio</id>
     <dbId>3605</dbId>
     <nome>Radio</nome>
-    <sigla></sigla>
+    <sigla>teste</sigla>
     <descricao>Radio mil jdjfjfj</descricao>
     <contato>teste</contato>
     <gratuito>true</gratuito>
