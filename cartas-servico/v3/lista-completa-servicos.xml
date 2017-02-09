@@ -528,11 +528,11 @@ oficial  seja  o  português.</descricao>
                         </canal-de-prestacao>
                     </default>
                     <caso id="17304" descricao="Estudantes de primeiro grau">
-                        <canal-de-prestacao id="17324" tipo="fax">
-                            <descricao>3434234242342342</descricao>
-                        </canal-de-prestacao>
                         <canal-de-prestacao id="17323" tipo="e-mail">
                             <descricao>estudantes@gov.br</descricao>
+                        </canal-de-prestacao>
+                        <canal-de-prestacao id="17324" tipo="fax">
+                            <descricao>3434234242342342</descricao>
                         </canal-de-prestacao>
                     </caso>
                 </canais-de-prestacao>
@@ -611,8 +611,8 @@ oficial  seja  o  português.</descricao>
             </etapa>
         </etapas>
         <segmentos-da-sociedade>
-            <item idSegmento="2" idServicoSegmento="11541">Órgãos e entidades públicas</item>
             <item idSegmento="1" idServicoSegmento="11542">Cidadãos</item>
+            <item idSegmento="2" idServicoSegmento="11541">Órgãos e entidades públicas</item>
         </segmentos-da-sociedade>
         <areas-de-interesse>
             <item>Empregabilidade</item>
@@ -838,8 +838,8 @@ oficial  seja  o  português.</descricao>
         <segmentos-da-sociedade>
             <item idSegmento="1" idServicoSegmento="11546">Cidadãos</item>
             <item idSegmento="2" idServicoSegmento="11547">Órgãos e entidades públicas</item>
-            <item idSegmento="4" idServicoSegmento="11548">Demais segmentos (ONGs, organizações sociais, etc)</item>
             <item idSegmento="3" idServicoSegmento="11549">Empresas</item>
+            <item idSegmento="4" idServicoSegmento="11548">Demais segmentos (ONGs, organizações sociais, etc)</item>
         </segmentos-da-sociedade>
         <palavras-chave>
             <item id="17333">sadfjasdklfjkdlsajkflj</item>
@@ -1694,6 +1694,66 @@ nb,mcxvnbm.,xcnvbm,cvnbm,nvc,mxnbm ,vcxnbm,v,bnm,xvcnm,bvnbm,xcvnbm,v,mnbm,cxvnb
             <item id="5819">Legislações relacionadas ao serviço 01</item>
             <item id="5820">Legislações relacionadas ao serviço 02</item>
             <item id="5821">Legislações relacionadas ao serviço 03</item>
+        </legislacoes>
+    </servico>
+    <servico>
+        <id>radio</id>
+        <dbId>3605</dbId>
+        <nome>Radio</nome>
+        <sigla>teste 2</sigla>
+        <descricao>Radio mil jdjfjfj</descricao>
+        <contato>teste</contato>
+        <gratuito>true</gratuito>
+        <solicitantes>
+            <solicitante id="40266">
+                <tipo>Radio 1</tipo>
+                <requisitos></requisitos>
+            </solicitante>
+        </solicitantes>
+        <tempo-total-estimado>
+            <em-media max="2" unidade="horas"/>
+            <descricao></descricao>
+        </tempo-total-estimado>
+        <validade-documento>
+            <tipo>Válido por</tipo>
+            <quantidade>3</quantidade>
+            <unidade>meses</unidade>
+            <descricao></descricao>
+        </validade-documento>
+        <etapas>
+            <etapa id="17406">
+                <titulo>Etapa 1</titulo>
+                <descricao></descricao>
+                <documentos>
+                    <default/>
+                </documentos>
+                <custos>
+                    <default/>
+                </custos>
+                <canais-de-prestacao>
+                    <default>
+                        <canal-de-prestacao id="17360" tipo="e-mail">
+                            <descricao>radio@email.com</descricao>
+                        </canal-de-prestacao>
+                    </default>
+                </canais-de-prestacao>
+            </etapa>
+        </etapas>
+        <orgao id="108999"/>
+        <segmentos-da-sociedade>
+            <item idSegmento="1" idServicoSegmento="11572">Cidadãos</item>
+        </segmentos-da-sociedade>
+        <areas-de-interesse>
+            <item>Comercio externo</item>
+            <item>Compras governamentais</item>
+        </areas-de-interesse>
+        <palavras-chave>
+            <item id="17382">teste</item>
+            <item id="17383">teste 1</item>
+            <item id="17384">teste 2</item>
+        </palavras-chave>
+        <legislacoes>
+            <item id="5828">legislação</item>
         </legislacoes>
     </servico>
 </servicos>
