@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>radio</id>
+    <dbId>3605</dbId>
+    <nome>Radio</nome>
+    <sigla></sigla>
+    <descricao>Radio mil jdjfjfj</descricao>
+    <contato>teste</contato>
+    <gratuito>true</gratuito>
+    <solicitantes>
+        <solicitante id="40266">
+            <tipo>Radio 1</tipo>
+            <requisitos></requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <em-media max="2" unidade="horas"/>
+        <descricao></descricao>
+    </tempo-total-estimado>
+    <validade-documento>
+        <tipo>Válido por</tipo>
+        <quantidade>3</quantidade>
+        <unidade>meses</unidade>
+        <descricao></descricao>
+    </validade-documento>
+    <etapas>
+        <etapa id="17406">
+            <titulo>Etapa 1</titulo>
+            <descricao></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="17360" tipo="e-mail">
+                        <descricao>radio@email.com</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="108999"/>
+    <segmentos-da-sociedade>
+        <item idSegmento="1" idServicoSegmento="11572">Cidadãos</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Comercio externo</item>
+        <item>Compras governamentais</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item id="17382">teste</item>
+        <item id="17383">teste 1</item>
+        <item id="17384">teste 2</item>
+    </palavras-chave>
+    <legislacoes>
+        <item id="5828">legislação</item>
+    </legislacoes>
+</servico>
