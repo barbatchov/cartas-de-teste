@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servico xsi:schemaLocation="http://servicos.gov.br/v3/schema.../servico.xsd" xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <id>obter-aurtorizacao-de-empresa</id>
+    <dbId>3596</dbId>
+    <nome>Obter aurtorização de empresa</nome>
+    <sigla></sigla>
+    <descricao>teste</descricao>
+    <contato></contato>
+    <gratuito>true</gratuito>
+    <solicitantes>
+        <solicitante id="40252">
+            <tipo>Empresario brasileiro</tipo>
+            <requisitos></requisitos>
+        </solicitante>
+        <solicitante id="40253">
+            <tipo>estrangeiro</tipo>
+            <requisitos></requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <atendimento-imediato/>
+        <descricao></descricao>
+    </tempo-total-estimado>
+    <validade-documento>
+        <tipo>Válido por</tipo>
+        <quantidade>2</quantidade>
+        <unidade>dias</unidade>
+        <descricao></descricao>
+    </validade-documento>
+    <etapas>
+        <etapa id="17388">
+            <titulo>Realizar solicitacao de certidao</titulo>
+            <descricao></descricao>
+            <documentos>
+                <default>
+                    <documento codigo="0">
+                        <id>63295</id>
+                        <descricao>Planta empresa</descricao>
+                        <ondeObter></ondeObter>
+                        <observacoes></observacoes>
+                    </documento>
+                    <documento codigo="0">
+                        <id>63296</id>
+                        <descricao>cnpj</descricao>
+                        <ondeObter></ondeObter>
+                        <observacoes></observacoes>
+                    </documento>
+                </default>
+                <caso id="17306" descricao="emnrpe">
+                    <documento codigo="0">
+                        <id>63294</id>
+                        <descricao>autorizacao do itamaraty</descricao>
+                        <ondeObter></ondeObter>
+                        <observacoes></observacoes>
+                    </documento>
+                </caso>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="17338" tipo="web">
+                        <descricao>www.receita.fazenda.gov.br/sidiasasiajdid</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa id="17389">
+            <titulo>Visita técnica ao estabelecimento</titulo>
+            <descricao></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="17339" tipo="presencial">
+                        <descricao></descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa id="17390">
+            <titulo>Envio</titulo>
+            <descricao></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao id="17361" tipo="e-mail">
+                        <descricao>email</descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="108999"/>
+    <segmentos-da-sociedade>
+        <item idSegmento="3" idServicoSegmento="11560">Empresas</item>
+        <item idSegmento="2" idServicoSegmento="11561">Órgãos e entidades públicas</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Assistência Hospitalar e Ambulatorial</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item id="17385">fdsf</item>
+        <item id="17386">fdsfds</item>
+        <item id="17387">sdfsd</item>
+    </palavras-chave>
+    <legislacoes>
+        <item id="5816">rerwer</item>
+        <item id="5817">rerwerw</item>
+        <item id="5818">qqq</item>
+    </legislacoes>
+</servico>
