@@ -1,5 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<pagina-tematica xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-    <nome>vitor</nome>
-    <conteudo><![CDATA[asdasfadsfadsfdsfdsafdasfdsafdsafsafsdfsfsdfd]]></conteudo>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pagina-tematica>
+    <conteudo>asdasfadsfadsfdsfdsafdasfdsafdsafsafsdfsfsdfd</conteudo>
+    <dbId>5</dbId>
+    <nome>Vitor</nome>
+    <orgaos>
+        <orgao id="108999"/>
+    </orgaos>
 </pagina-tematica>
